@@ -5,7 +5,7 @@ import icon3 from '../../Images/svg-6.svg'
 import { ServicesCard, ServicesContainer, ServicesH1, ServicesH2, ServicesIcon, ServicesP, ServicesWrapper } from './ServicesElements'
 const Services = () => {
     return (
-        <ServicesContainer id="Services">
+        <ServicesContainer id="services">
             <ServicesH1>
                 Our Services
             </ServicesH1>
@@ -13,7 +13,7 @@ const Services = () => {
                 <ServicesCard>
                     <ServicesIcon src={icon1}></ServicesIcon>
                     <ServicesH2>Reduce expanses</ServicesH2>
-                    <ServicesP>We help reduce your fess and increase your overall revenue.</ServicesP>
+                    <ServicesP>We help reduce your fees and increase your overall revenue.</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={icon2}></ServicesIcon>

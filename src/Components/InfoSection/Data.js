@@ -8,7 +8,7 @@ import img3 from '../../Images/svg-3.svg'
      lightTextDesc: true,
      topLine: 'Premium Bank',
      headLine: 'Unlimited Transactions with zero fees',
-     desciption: 'Get access to our exculsive app that allows you to send unlimited transactions without getting charged any fees.',
+     description: 'Get access to our exculsive app that allows you to send unlimited transactions without getting charged any fees.',
      buttonLabel: 'Get started',
      imgStart: false,
      img: img1,
@@ -24,7 +24,7 @@ import img3 from '../../Images/svg-3.svg'
      lightTextDesc: false,
      topLine: 'Premium Bank',
      headLine: 'Unlimited Transactions with zero fees',
-     desciption: 'Get access to our exculsive app that allows you to send unlimited transactions without getting charged any fees.',
+     description: 'Get access to our exculsive app that allows you to send unlimited transactions without getting charged any fees.',
      buttonLabel: 'Get started',
      imgStart: true,
      img: img2,
@@ -34,13 +34,13 @@ import img3 from '../../Images/svg-3.svg'
      darkText: true
  }
  export const homeObjThree = {
-     id: 'services',
+     id: 'signup',
      lightBg: false,
      lightText : true,
      lightTextDesc: true,
      topLine: 'Premium Bank',
      headLine: 'Unlimited Transactions with zero fees',
-     desciption: 'Get access to our exculsive app that allows you to send unlimited transactions without getting charged any fees.',
+     description: 'Get access to our exculsive app that allows you to send unlimited transactions without getting charged any fees.',
      buttonLabel: 'Get started',
      imgStart: false,
      img: img3,
