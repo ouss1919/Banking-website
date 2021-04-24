@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from '../Components/Navbar/Navbar'
+import Sign from '../Components/SignIn/SignIn'
 
 const SignIn = () => {
     return (
         <div>
-            <Navbar />
+            <Sign />
         </div>
     )
 }
